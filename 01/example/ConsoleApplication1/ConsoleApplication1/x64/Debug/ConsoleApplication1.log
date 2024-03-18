@@ -1,0 +1,7 @@
+﻿  main.cpp
+  mystring.cpp
+D:\TheC++\01\example\ConsoleApplication1\ConsoleApplication1\mystring.cpp(85,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\TheC++\01\example\ConsoleApplication1\ConsoleApplication1\mystring.cpp(89,28): warning C4305: '*=': truncation from 'double' to 'float'
+D:\TheC++\01\example\ConsoleApplication1\ConsoleApplication1\mystring.cpp(97,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> D:\TheC++\01\example\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
