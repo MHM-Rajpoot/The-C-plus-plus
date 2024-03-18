@@ -1,0 +1,23 @@
+﻿  main.cpp
+D:\TheC++\03\concept\ConsoleApplication1\ConsoleApplication1\main.cpp(12,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\TheC++\03\concept\ConsoleApplication1\ConsoleApplication1\main.cpp(54,38): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\TheC++\03\concept\ConsoleApplication1\ConsoleApplication1\main.cpp(54,57): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\TheC++\03\concept\ConsoleApplication1\ConsoleApplication1\main.cpp(59,19): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\TheC++\03\concept\ConsoleApplication1\ConsoleApplication1\main.cpp(59,38): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+  ConsoleApplication1.vcxproj -> D:\TheC++\03\concept\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
