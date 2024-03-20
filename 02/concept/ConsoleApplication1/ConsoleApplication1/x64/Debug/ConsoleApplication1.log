@@ -1,2 +1,6 @@
 ﻿  main.cpp
-  ConsoleApplication1.vcxproj -> D:\TheC++\02\concept\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  mystring.cpp
+  mystring.h
+  Generating Code...
+x64\Debug\mystring.obj : warning LNK4042: object specified more than once; extras ignored
+  ConsoleApplication1.vcxproj -> C:\Users\MHM\Downloads\The-C-plus-plus-main\02\concept\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

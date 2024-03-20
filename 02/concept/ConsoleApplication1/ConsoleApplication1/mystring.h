@@ -98,6 +98,13 @@ namespace mystringwrapper {
         // Returns:
         // - Reference to the modified MyString object
         MyString& operator=(const MyString& other);
+
+        // Overloaded operator<< declaration as a friend function
+        friend std::ostream& operator<<(std::ostream& os, const MyString& str);
     };
-};
+
+    // Definition of the overloaded operator<<
+    std::ostream& operator<<(std::ostream& os, const MyString& str);
+
+}
 #endif /* MYSTRING_H */
