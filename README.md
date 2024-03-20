@@ -45,7 +45,5 @@ For detailed lectures on these topics, please visit our YouTube channel: [Course
 
 Feel free to explore the content, watch the lectures, and enhance your understanding of these fundamental programming concepts, best practices, data structures, and algorithms. Happy learning! 
 
-If you have any questions or suggestions, don't hesitate to reach out.
+**Disclaimer**: This content is for nonprofit educational purposes only.
 
----
-**Note**: Replace `insert_youtube_link_here` with the actual link to your YouTube channel or the specific playlist where your lectures are hosted.
