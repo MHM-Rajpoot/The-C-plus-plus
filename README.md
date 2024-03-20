@@ -41,7 +41,7 @@ Welcome to the course repository! Here you'll find a comprehensive discussion on
 - K Nearest Neighbors
 
 ## Lecture Videos
-For detailed lectures on these topics, please visit our YouTube channel: [YouTube]([insert_youtube_link_here](https://www.youtube.com/playlist?list=PLR_RicuGLyLeX9xwczz7XQQAl9BTLHfbN))
+For detailed lectures on these topics, please visit our YouTube channel: [YouTube](https://www.youtube.com/playlist?list=PLR_RicuGLyLeX9xwczz7XQQAl9BTLHfbN)
 
 Feel free to explore the content, watch the lectures, and enhance your understanding of these fundamental programming concepts, best practices, data structures, and algorithms. Happy learning! 
 
