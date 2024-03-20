@@ -8,11 +8,13 @@ Welcome to the course repository! Here you'll find a comprehensive discussion on
 - Constructor and Destructor
 - Preprocessor Directive
 - Encapsulation and Setter/Getter
-- Constructor Overloading
+- Function Overloading
 - Namespaces
 - Inheritance
+- Class Relation
 - Wrapper Class
 - Static, Const
+- Polymorphism
 - Friend Function
 - Aggregation
 - Abstraction
@@ -23,12 +25,11 @@ Welcome to the course repository! Here you'll find a comprehensive discussion on
 - sizeof Operator
 - Pointers
 - Templates
-- Class Relation
 - Memory Management
 - Recursion
 - File Streaming
 - Exception Handling
-- Polymorphism
+
 
 ## 3. Data Structures
 - String
