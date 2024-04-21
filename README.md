@@ -30,7 +30,6 @@ Welcome to the course repository! Here you'll find a comprehensive discussion on
 - File Streaming
 - Exception Handling
 
-
 ## 3. Data Structures
 - String
 - Doubly Linked List
@@ -44,7 +43,10 @@ Welcome to the course repository! Here you'll find a comprehensive discussion on
 ## Lecture Videos
 For detailed lectures on these topics, please visit our YouTube channel: [YouTube](https://www.youtube.com/playlist?list=PLR_RicuGLyLeX9xwczz7XQQAl9BTLHfbN)
 
-Feel free to explore the content, watch the lectures, and enhance your understanding of these fundamental programming concepts, best practices, data structures, and algorithms. Happy learning! 
+Feel free to explore the content, watch the lectures, and enhance your understanding of these fundamental programming concepts, best practices, data structures, and algorithms. Happy learning!
 
 **Disclaimer**: This content is for nonprofit educational purposes only.
 
+## Reference Books
+- "Object-Oriented Programming in C++, Fourth Edition" by Robert Lafore
+- "C++ Programming: An Object-Oriented Approach" by Behrouz A. Forouzan and Richard F. Gilberg
